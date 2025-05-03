@@ -19,3 +19,7 @@ This is a simple web application built with **Streamlit** that allows users to c
 - NumPy
 - Joblib
 - Google Colab
+
+---
+## Project Setup and Deployment Guide
+### Step 1: Model Development
