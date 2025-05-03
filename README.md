@@ -15,10 +15,12 @@ This is a simple web application built with **Streamlit** that allows users to c
 ## 🧠 Tech Stack
 - Python 3.10
 - Streamlit
-- scikit-learn
 - NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
 - Joblib
-- Google Colab
 
 ---
 ## Project Setup and Deployment Guide
