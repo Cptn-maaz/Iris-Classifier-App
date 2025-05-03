@@ -47,6 +47,8 @@ Copy and paste the following files into this folder:
   - conda create -n iris_env python=3.10
 4) Activate the newly created environment:
   - conda activate iris_env
+You can also watch the following video on how to setup a virtual environment for a project
+https://www.youtube.com/watch?v=5MDv8R5UGqQ&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t&index=32&ab_channel=IrfanMalik
 
 ### Step 4: Install Dependencies
 Install the required Python packages using pip:
