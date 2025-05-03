@@ -40,19 +40,19 @@ Copy and paste the following files into this folder:
 ###  Step 3: Virtual Environment Setup (Using Anaconda)
 1) Open Anaconda Prompt
 2) Navigate to your project directory:
- - cd path\to\your\Project
+  - cd path\to\your\Project
 3) Create a virtual environment with Python 3.10:
- - conda create -n iris_env python=3.10
+  - conda create -n iris_env python=3.10
 4) Activate the newly created environment:
- - conda activate iris_env
+  - conda activate iris_env
 
 ### Step 4: Install Dependencies
 Install the required Python packages using pip:
- - pip install streamlit scikit-learn numpy joblib
+  - pip install streamlit scikit-learn numpy joblib
 
 ### Step 5: Running the Streamlit App
 1) Open Visual Studio Code (VS Code).
 2) Select the iris_env virtual environment.
 3) Open the streamlit_app.py file.
 4) In the VS Code terminal, run the following command to launch the application:
- - streamlit run streamlit_app.py
+  - streamlit run streamlit_app.py
