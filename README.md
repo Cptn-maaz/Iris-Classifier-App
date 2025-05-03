@@ -23,6 +23,11 @@ This is a simple web application built with **Streamlit** that allows users to c
 - Joblib
 
 ---
+## 📸 App Screenshot
+![App Screenshot](images/Input.png)
+![App Screenshot](images/Output.png)
+
+
 ## Project Setup and Deployment Guide
 ### Step 1: Model Development
 Run the provided Jupyter notebook on your preferred platform (Google Colab, Kaggle, or Anaconda). The notebook includes all essential steps for model development:
