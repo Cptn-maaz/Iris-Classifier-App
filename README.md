@@ -18,3 +18,4 @@ This is a simple web application built with **Streamlit** that allows users to c
 - scikit-learn
 - NumPy
 - Joblib
+- Google Colab
