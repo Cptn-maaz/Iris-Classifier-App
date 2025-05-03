@@ -25,7 +25,7 @@ This is a simple web application built with **Streamlit** that allows users to c
 ---
 ## 📸 App Screenshot
 ![App Screenshot](images/Input.PNG)
-
+![App Screenshot](images/Output.PNG)
 
 ## Project Setup and Deployment Guide
 ### Step 1: Model Development
